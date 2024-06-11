@@ -1,0 +1,22 @@
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Kreisberechner x Klassen\Kreisberechner x Klassen\bin\Debug\Kreisberechner x Klassen.exe.config
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Kreisberechner x Klassen\Kreisberechner x Klassen\bin\Debug\Kreisberechner x Klassen.exe
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Kreisberechner x Klassen\Kreisberechner x Klassen\bin\Debug\Kreisberechner x Klassen.pdb
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Kreisberechner x Klassen\Kreisberechner x Klassen\obj\Debug\Kreisberechner x Klassen.csproj.AssemblyReference.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Kreisberechner x Klassen\Kreisberechner x Klassen\obj\Debug\Kreisberechner x Klassen.csproj.SuggestedBindingRedirects.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Kreisberechner x Klassen\Kreisberechner x Klassen\obj\Debug\Kreisberechner_x_Klassen.Form1.resources
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Kreisberechner x Klassen\Kreisberechner x Klassen\obj\Debug\Kreisberechner_x_Klassen.Properties.Resources.resources
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Kreisberechner x Klassen\Kreisberechner x Klassen\obj\Debug\Kreisberechner x Klassen.csproj.GenerateResource.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Kreisberechner x Klassen\Kreisberechner x Klassen\obj\Debug\Kreisberechner x Klassen.csproj.CoreCompileInputs.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Kreisberechner x Klassen\Kreisberechner x Klassen\obj\Debug\Kreisberechner x Klassen.exe
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Kreisberechner x Klassen\Kreisberechner x Klassen\obj\Debug\Kreisberechner x Klassen.pdb
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Kreisberechner mit Klassen erweitert\Kreisberechner x Klassen\bin\Debug\Kreisberechner x Klassen.exe.config
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Kreisberechner mit Klassen erweitert\Kreisberechner x Klassen\bin\Debug\Kreisberechner x Klassen.exe
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Kreisberechner mit Klassen erweitert\Kreisberechner x Klassen\bin\Debug\Kreisberechner x Klassen.pdb
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Kreisberechner mit Klassen erweitert\Kreisberechner x Klassen\obj\Debug\Kreisberechner x Klassen.csproj.AssemblyReference.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Kreisberechner mit Klassen erweitert\Kreisberechner x Klassen\obj\Debug\Kreisberechner x Klassen.csproj.SuggestedBindingRedirects.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Kreisberechner mit Klassen erweitert\Kreisberechner x Klassen\obj\Debug\Kreisberechner_x_Klassen.Form1.resources
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Kreisberechner mit Klassen erweitert\Kreisberechner x Klassen\obj\Debug\Kreisberechner_x_Klassen.Properties.Resources.resources
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Kreisberechner mit Klassen erweitert\Kreisberechner x Klassen\obj\Debug\Kreisberechner x Klassen.csproj.GenerateResource.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Kreisberechner mit Klassen erweitert\Kreisberechner x Klassen\obj\Debug\Kreisberechner x Klassen.csproj.CoreCompileInputs.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Kreisberechner mit Klassen erweitert\Kreisberechner x Klassen\obj\Debug\Kreisberechner x Klassen.exe
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Kreisberechner mit Klassen erweitert\Kreisberechner x Klassen\obj\Debug\Kreisberechner x Klassen.pdb
